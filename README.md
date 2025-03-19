@@ -14,7 +14,7 @@ How Can Project Managers Ensure Deadlines Are Met?
 •	Agile Methodology – Break work into smaller parts (sprints) for faster progress and quick adjustments.
 
 
-3.	How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+2.	How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
 Effective cost control ensures that a software project stays within budget, avoiding financial strain and ensuring profitability. When costs are managed well, resources are used efficiently, risks are minimized, and stakeholders remain confident. Poor cost control can lead to unfinished projects, low-quality software, or financial losses.
 
@@ -84,7 +84,7 @@ Examples:
 Agile is better for dynamic, fast-changing projects where client feedback is crucial. Waterfall works best for structured projects with strict deadlines and clear requirements.
 
 
-6.	What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+5.	What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 
 Quality assurance (QA) ensures software meets user expectations, functions correctly, and remains reliable. Maintaining high standards prevents costly errors, improves user satisfaction, and enhances long-term maintainability.
 
@@ -113,7 +113,7 @@ Importance of High Standards in QA
 By integrating QA throughout development, teams ensure the final product is reliable, secure, and user-friendly.
 
 
-7.	How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+6.	How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 
 Defining the project scope is essential for setting clear expectations, preventing scope creep, and ensuring efficient resource allocation. A well-defined scope outlines the project's objectives, deliverables, boundaries, and constraints. It acts as a guideline, helping teams stay focused and preventing unnecessary changes that can lead to delays and budget overruns.
 
@@ -132,7 +132,7 @@ e)	Ensures Clear Accountability – Assigning specific tasks to team members inc
 By defining the project scope and using WBS, project managers can plan effectively, track progress efficiently, and ensure that the project stays on schedule and within budget.
 
 
-8.	What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+7.	What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
 A detailed project schedule is essential for managing time, resources, and tasks efficiently. It provides a clear timeline, helping teams stay on track and meet deadlines. Some key benefits include:
 a)	Better Time Management – A structured schedule ensures that tasks are completed in the right order, preventing delays.
@@ -151,7 +151,7 @@ e)	Resource Allocation – Helps distribute workload evenly, preventing burnout 
 
 By using a detailed project schedule and tools like Gantt charts, project managers can streamline workflows, enhance coordination, and increase the chances of delivering a successful project on time.
 
-9.	What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+8.	What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
 The core issues that software aims to address depend on its purpose, industry, and target audience. However, in general, well-designed software focuses on solving inefficiencies, improving productivity, and enhancing user experience.
 
@@ -170,7 +170,7 @@ c)	Developers and IT Teams – They require tools that streamline coding, debugg
 Addressing these core issues ensures that software remains valuable, user-friendly, and impactful for its target audience.
 
 
-10.	How can clearly defining the problem help in developing a more effective software solution?
+9.	How can clearly defining the problem help in developing a more effective software solution?
 
 Clearly defining the problem is crucial in software development because it sets the foundation for building an effective solution. Without a well-defined problem, teams risk wasting time, resources, and effort on features that do not address real user needs.
 
@@ -189,7 +189,7 @@ c)	Set Measurable Objectives – Outline what success looks like, such as improv
 By investing time in problem definition, teams ensure they build software that is practical, efficient, and truly beneficial to its users.
 
 
-11.	How would you describe your software solution in a way that captures its essence without diving into technical details?
+10.	How would you describe your software solution in a way that captures its essence without diving into technical details?
 
 Our software empowers farmers by providing them with easier access to financing. Many farmers struggle to secure funding due to complex application processes and strict lending requirements. Our solution simplifies this by connecting farmers with lenders through a streamlined, user-friendly platform.  
 
